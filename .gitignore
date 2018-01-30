@@ -1,0 +1,15 @@
+# generated files
+bin/
+build/
+
+# Java class files
+.class
+
+# workspace config
+.settings/
+.metadata/
+.idea/
+
+# Mac OS
+.DS_Store
+.grade/
